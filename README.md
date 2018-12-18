@@ -1,2 +1,2 @@
-# Checkers-Game-
+# Checkers-Game
 http://onlinecheckersplatform.com
